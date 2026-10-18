@@ -1,0 +1,81 @@
+
+[
+  {
+    "id": "demo-001",
+    "title": "Bài viết mẫu 1 - Tin Thời sự",
+    "slug": "bai-viet-mau-1",
+    "excerpt": "Nội dung tóm tắt của bài viết số 1 để kiểm tra giao diện trang tin.",
+    "content": "Đây là nội dung giả lập của bài viết số 1.",
+    "author": "Dữ liệu mẫu",
+    "category": ["thoi-su"],
+    "publishedAt": "2026-10-18T10:00:00",
+    "source": "demo",
+    "url": "",
+    "image": ""
+  },
+  {
+    "id": "demo-002",
+    "title": "Bài viết mẫu 2 - Tin Thế giới",
+    "slug": "bai-viet-mau-2",
+    "excerpt": "Nội dung tóm tắt của bài viết số 2 để kiểm tra giao diện trang tin.",
+    "content": "Đây là nội dung giả lập của bài viết số 2.",
+    "author": "Dữ liệu mẫu",
+    "category": ["the-gioi"],
+    "publishedAt": "2026-10-18T09:00:00",
+    "source": "demo",
+    "url": "",
+    "image": ""
+  },
+  {
+    "id": "demo-003",
+    "title": "Bài viết mẫu 3 - Tin Thời sự",
+    "slug": "bai-viet-mau-3",
+    "excerpt": "Nội dung tóm tắt của bài viết số 3 để kiểm tra giao diện trang tin.",
+    "content": "Đây là nội dung giả lập của bài viết số 3.",
+    "author": "Dữ liệu mẫu",
+    "category": ["thoi-su"],
+    "publishedAt": "2026-10-18T08:00:00",
+    "source": "demo",
+    "url": "",
+    "image": ""
+  },
+  {
+    "id": "demo-004",
+    "title": "Bài viết mẫu 4 - Tin Thế giới",
+    "slug": "bai-viet-mau-4",
+    "excerpt": "Nội dung tóm tắt của bài viết số 4 để kiểm tra giao diện trang tin.",
+    "content": "Đây là nội dung giả lập của bài viết số 4.",
+    "author": "Dữ liệu mẫu",
+    "category": ["the-gioi"],
+    "publishedAt": "2026-10-18T07:00:00",
+    "source": "demo",
+    "url": "",
+    "image": ""
+  },
+  {
+    "id": "demo-005",
+    "title": "Bài viết mẫu 5 - Tin Thời sự",
+    "slug": "bai-viet-mau-5",
+    "excerpt": "Nội dung tóm tắt của bài viết số 5 để kiểm tra giao diện trang tin.",
+    "content": "Đây là nội dung giả lập của bài viết số 5.",
+    "author": "Dữ liệu mẫu",
+    "category": ["thoi-su"],
+    "publishedAt": "2026-10-17T18:00:00",
+    "source": "demo",
+    "url": "",
+    "image": ""
+  },
+  {
+    "id": "demo-006",
+    "title": "Bài viết mẫu 6 - Tin Thế giới",
+    "slug": "bai-viet-mau-6",
+    "excerpt": "Nội dung tóm tắt của bài viết số 6 để kiểm tra giao diện trang tin.",
+    "content": "Đây là nội dung giả lập của bài viết số 6.",
+    "author": "Dữ liệu mẫu",
+    "category": ["the-gioi"],
+    "publishedAt": "2026-10-17T16:00:00",
+    "source": "demo",
+    "url": "",
+    "image": ""
+  }
+]
