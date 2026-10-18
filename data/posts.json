@@ -1,81 +1,245 @@
-
 [
   {
-    "id": "demo-001",
-    "title": "Bài viết mẫu 1 - Tin Thời sự",
-    "slug": "bai-viet-mau-1",
-    "excerpt": "Nội dung tóm tắt của bài viết số 1 để kiểm tra giao diện trang tin.",
-    "content": "Đây là nội dung giả lập của bài viết số 1.",
-    "author": "Dữ liệu mẫu",
-    "category": ["thoi-su"],
+    "id": "mau-001",
+    "title": "Hà Nội mở thêm không gian đi bộ phục vụ người dân",
+    "slug": "bai-viet-mau-001",
+    "excerpt": "Nhiều khu vực đô thị đang được cải tạo để tăng diện tích sinh hoạt cộng đồng.",
+    "content": "Nhiều khu vực đô thị đang được cải tạo để tăng diện tích sinh hoạt cộng đồng.\n\nĐây là nội dung minh họa được tự biên soạn nhằm kiểm tra bố cục và chức năng website tin tức trong bài tập lớn. Thông tin trong bài chỉ mang tính ví dụ, không phải tin tức đã được xác minh.\n\nKhi hoàn thiện bài tập, sinh viên có thể cập nhật dữ liệu bài viết theo yêu cầu của giảng viên và ghi rõ nguồn dữ liệu được sử dụng.",
+    "author": "Ban biên tập (mẫu)",
+    "category": [
+      "thoi-su"
+    ],
+    "publishedAt": "2026-10-18T13:00:00",
+    "source": "Dữ liệu minh họa",
+    "url": "",
+    "image": "https://images.unsplash.com/photo-1509030450996-dd1a26dda07a?w=1200&q=85"
+  },
+  {
+    "id": "mau-002",
+    "title": "Những thành phố xanh đang định hình tương lai đô thị",
+    "slug": "bai-viet-mau-002",
+    "excerpt": "Quy hoạch bền vững được nhiều nơi ưu tiên nhằm tạo môi trường sống thuận tiện.",
+    "content": "Quy hoạch bền vững được nhiều nơi ưu tiên nhằm tạo môi trường sống thuận tiện.\n\nĐây là nội dung minh họa được tự biên soạn nhằm kiểm tra bố cục và chức năng website tin tức trong bài tập lớn. Thông tin trong bài chỉ mang tính ví dụ, không phải tin tức đã được xác minh.\n\nKhi hoàn thiện bài tập, sinh viên có thể cập nhật dữ liệu bài viết theo yêu cầu của giảng viên và ghi rõ nguồn dữ liệu được sử dụng.",
+    "author": "Ban biên tập (mẫu)",
+    "category": [
+      "the-gioi"
+    ],
     "publishedAt": "2026-10-18T10:00:00",
-    "source": "demo",
+    "source": "Dữ liệu minh họa",
     "url": "",
-    "image": ""
+    "image": "https://images.unsplash.com/photo-1519501025264-65ba15a82390?w=1200&q=85"
   },
   {
-    "id": "demo-002",
-    "title": "Bài viết mẫu 2 - Tin Thế giới",
-    "slug": "bai-viet-mau-2",
-    "excerpt": "Nội dung tóm tắt của bài viết số 2 để kiểm tra giao diện trang tin.",
-    "content": "Đây là nội dung giả lập của bài viết số 2.",
-    "author": "Dữ liệu mẫu",
-    "category": ["the-gioi"],
-    "publishedAt": "2026-10-18T09:00:00",
-    "source": "demo",
-    "url": "",
-    "image": ""
-  },
-  {
-    "id": "demo-003",
-    "title": "Bài viết mẫu 3 - Tin Thời sự",
-    "slug": "bai-viet-mau-3",
-    "excerpt": "Nội dung tóm tắt của bài viết số 3 để kiểm tra giao diện trang tin.",
-    "content": "Đây là nội dung giả lập của bài viết số 3.",
-    "author": "Dữ liệu mẫu",
-    "category": ["thoi-su"],
-    "publishedAt": "2026-10-18T08:00:00",
-    "source": "demo",
-    "url": "",
-    "image": ""
-  },
-  {
-    "id": "demo-004",
-    "title": "Bài viết mẫu 4 - Tin Thế giới",
-    "slug": "bai-viet-mau-4",
-    "excerpt": "Nội dung tóm tắt của bài viết số 4 để kiểm tra giao diện trang tin.",
-    "content": "Đây là nội dung giả lập của bài viết số 4.",
-    "author": "Dữ liệu mẫu",
-    "category": ["the-gioi"],
+    "id": "mau-003",
+    "title": "Học sinh hào hứng với các hoạt động trải nghiệm khoa học",
+    "slug": "bai-viet-mau-003",
+    "excerpt": "Các buổi học thực hành giúp học sinh tiếp cận kiến thức theo hướng sinh động.",
+    "content": "Các buổi học thực hành giúp học sinh tiếp cận kiến thức theo hướng sinh động.\n\nĐây là nội dung minh họa được tự biên soạn nhằm kiểm tra bố cục và chức năng website tin tức trong bài tập lớn. Thông tin trong bài chỉ mang tính ví dụ, không phải tin tức đã được xác minh.\n\nKhi hoàn thiện bài tập, sinh viên có thể cập nhật dữ liệu bài viết theo yêu cầu của giảng viên và ghi rõ nguồn dữ liệu được sử dụng.",
+    "author": "Ban biên tập (mẫu)",
+    "category": [
+      "giao-duc"
+    ],
     "publishedAt": "2026-10-18T07:00:00",
-    "source": "demo",
+    "source": "Dữ liệu minh họa",
     "url": "",
-    "image": ""
+    "image": "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?w=1200&q=85"
   },
   {
-    "id": "demo-005",
-    "title": "Bài viết mẫu 5 - Tin Thời sự",
-    "slug": "bai-viet-mau-5",
-    "excerpt": "Nội dung tóm tắt của bài viết số 5 để kiểm tra giao diện trang tin.",
-    "content": "Đây là nội dung giả lập của bài viết số 5.",
-    "author": "Dữ liệu mẫu",
-    "category": ["thoi-su"],
-    "publishedAt": "2026-10-17T18:00:00",
-    "source": "demo",
+    "id": "mau-004",
+    "title": "Ứng dụng công nghệ mới trong đời sống hằng ngày",
+    "slug": "bai-viet-mau-004",
+    "excerpt": "Nhiều công cụ số đang giúp hoạt động học tập và làm việc hiệu quả hơn.",
+    "content": "Nhiều công cụ số đang giúp hoạt động học tập và làm việc hiệu quả hơn.\n\nĐây là nội dung minh họa được tự biên soạn nhằm kiểm tra bố cục và chức năng website tin tức trong bài tập lớn. Thông tin trong bài chỉ mang tính ví dụ, không phải tin tức đã được xác minh.\n\nKhi hoàn thiện bài tập, sinh viên có thể cập nhật dữ liệu bài viết theo yêu cầu của giảng viên và ghi rõ nguồn dữ liệu được sử dụng.",
+    "author": "Ban biên tập (mẫu)",
+    "category": [
+      "cong-nghe"
+    ],
+    "publishedAt": "2026-10-18T04:00:00",
+    "source": "Dữ liệu minh họa",
     "url": "",
-    "image": ""
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=85"
   },
   {
-    "id": "demo-006",
-    "title": "Bài viết mẫu 6 - Tin Thế giới",
-    "slug": "bai-viet-mau-6",
-    "excerpt": "Nội dung tóm tắt của bài viết số 6 để kiểm tra giao diện trang tin.",
-    "content": "Đây là nội dung giả lập của bài viết số 6.",
-    "author": "Dữ liệu mẫu",
-    "category": ["the-gioi"],
+    "id": "mau-005",
+    "title": "Doanh nghiệp nhỏ tìm hướng phát triển kinh doanh trực tuyến",
+    "slug": "bai-viet-mau-005",
+    "excerpt": "Kênh bán hàng số mở ra nhiều cách tiếp cận người tiêu dùng.",
+    "content": "Kênh bán hàng số mở ra nhiều cách tiếp cận người tiêu dùng.\n\nĐây là nội dung minh họa được tự biên soạn nhằm kiểm tra bố cục và chức năng website tin tức trong bài tập lớn. Thông tin trong bài chỉ mang tính ví dụ, không phải tin tức đã được xác minh.\n\nKhi hoàn thiện bài tập, sinh viên có thể cập nhật dữ liệu bài viết theo yêu cầu của giảng viên và ghi rõ nguồn dữ liệu được sử dụng.",
+    "author": "Ban biên tập (mẫu)",
+    "category": [
+      "kinh-doanh"
+    ],
+    "publishedAt": "2026-10-18T01:00:00",
+    "source": "Dữ liệu minh họa",
+    "url": "",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&q=85"
+  },
+  {
+    "id": "mau-006",
+    "title": "Các thói quen đơn giản giúp duy trì nhịp sống lành mạnh",
+    "slug": "bai-viet-mau-006",
+    "excerpt": "Các chuyên gia khuyến khích duy trì giấc ngủ và vận động phù hợp.",
+    "content": "Các chuyên gia khuyến khích duy trì giấc ngủ và vận động phù hợp.\n\nĐây là nội dung minh họa được tự biên soạn nhằm kiểm tra bố cục và chức năng website tin tức trong bài tập lớn. Thông tin trong bài chỉ mang tính ví dụ, không phải tin tức đã được xác minh.\n\nKhi hoàn thiện bài tập, sinh viên có thể cập nhật dữ liệu bài viết theo yêu cầu của giảng viên và ghi rõ nguồn dữ liệu được sử dụng.",
+    "author": "Ban biên tập (mẫu)",
+    "category": [
+      "suc-khoe"
+    ],
+    "publishedAt": "2026-10-17T22:00:00",
+    "source": "Dữ liệu minh họa",
+    "url": "",
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1200&q=85"
+  },
+  {
+    "id": "mau-007",
+    "title": "Cuối tuần sôi động với các hoạt động nghệ thuật",
+    "slug": "bai-viet-mau-007",
+    "excerpt": "Nhiều chương trình cộng đồng thu hút người dân tham gia.",
+    "content": "Nhiều chương trình cộng đồng thu hút người dân tham gia.\n\nĐây là nội dung minh họa được tự biên soạn nhằm kiểm tra bố cục và chức năng website tin tức trong bài tập lớn. Thông tin trong bài chỉ mang tính ví dụ, không phải tin tức đã được xác minh.\n\nKhi hoàn thiện bài tập, sinh viên có thể cập nhật dữ liệu bài viết theo yêu cầu của giảng viên và ghi rõ nguồn dữ liệu được sử dụng.",
+    "author": "Ban biên tập (mẫu)",
+    "category": [
+      "giai-tri"
+    ],
+    "publishedAt": "2026-10-17T19:00:00",
+    "source": "Dữ liệu minh họa",
+    "url": "",
+    "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=1200&q=85"
+  },
+  {
+    "id": "mau-008",
+    "title": "Phong trào chạy bộ lan tỏa trong cộng đồng",
+    "slug": "bai-viet-mau-008",
+    "excerpt": "Các hoạt động thể thao ngoài trời trở thành lựa chọn của nhiều gia đình.",
+    "content": "Các hoạt động thể thao ngoài trời trở thành lựa chọn của nhiều gia đình.\n\nĐây là nội dung minh họa được tự biên soạn nhằm kiểm tra bố cục và chức năng website tin tức trong bài tập lớn. Thông tin trong bài chỉ mang tính ví dụ, không phải tin tức đã được xác minh.\n\nKhi hoàn thiện bài tập, sinh viên có thể cập nhật dữ liệu bài viết theo yêu cầu của giảng viên và ghi rõ nguồn dữ liệu được sử dụng.",
+    "author": "Ban biên tập (mẫu)",
+    "category": [
+      "the-thao"
+    ],
     "publishedAt": "2026-10-17T16:00:00",
-    "source": "demo",
+    "source": "Dữ liệu minh họa",
     "url": "",
-    "image": ""
+    "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=1200&q=85"
+  },
+  {
+    "id": "mau-009",
+    "title": "Giao thông đô thị chuyển biến nhờ thêm tuyến xe công cộng",
+    "slug": "bai-viet-mau-009",
+    "excerpt": "Giải pháp đi lại bằng phương tiện chung nhận được sự quan tâm.",
+    "content": "Giải pháp đi lại bằng phương tiện chung nhận được sự quan tâm.\n\nĐây là nội dung minh họa được tự biên soạn nhằm kiểm tra bố cục và chức năng website tin tức trong bài tập lớn. Thông tin trong bài chỉ mang tính ví dụ, không phải tin tức đã được xác minh.\n\nKhi hoàn thiện bài tập, sinh viên có thể cập nhật dữ liệu bài viết theo yêu cầu của giảng viên và ghi rõ nguồn dữ liệu được sử dụng.",
+    "author": "Ban biên tập (mẫu)",
+    "category": [
+      "thoi-su",
+      "giao-thong"
+    ],
+    "publishedAt": "2026-10-17T13:00:00",
+    "source": "Dữ liệu minh họa",
+    "url": "",
+    "image": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=1200&q=85"
+  },
+  {
+    "id": "mau-010",
+    "title": "Xu hướng du lịch trải nghiệm được nhiều người lựa chọn",
+    "slug": "bai-viet-mau-010",
+    "excerpt": "Khám phá văn hóa và thiên nhiên trở thành điểm nhấn trong các hành trình.",
+    "content": "Khám phá văn hóa và thiên nhiên trở thành điểm nhấn trong các hành trình.\n\nĐây là nội dung minh họa được tự biên soạn nhằm kiểm tra bố cục và chức năng website tin tức trong bài tập lớn. Thông tin trong bài chỉ mang tính ví dụ, không phải tin tức đã được xác minh.\n\nKhi hoàn thiện bài tập, sinh viên có thể cập nhật dữ liệu bài viết theo yêu cầu của giảng viên và ghi rõ nguồn dữ liệu được sử dụng.",
+    "author": "Ban biên tập (mẫu)",
+    "category": [
+      "the-gioi",
+      "phan-tich"
+    ],
+    "publishedAt": "2026-10-17T10:00:00",
+    "source": "Dữ liệu minh họa",
+    "url": "",
+    "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1200&q=85"
+  },
+  {
+    "id": "mau-011",
+    "title": "Thư viện hiện đại tạo cảm hứng đọc sách",
+    "slug": "bai-viet-mau-011",
+    "excerpt": "Không gian học tập mở đang thu hút nhiều bạn trẻ đến tìm hiểu.",
+    "content": "Không gian học tập mở đang thu hút nhiều bạn trẻ đến tìm hiểu.\n\nĐây là nội dung minh họa được tự biên soạn nhằm kiểm tra bố cục và chức năng website tin tức trong bài tập lớn. Thông tin trong bài chỉ mang tính ví dụ, không phải tin tức đã được xác minh.\n\nKhi hoàn thiện bài tập, sinh viên có thể cập nhật dữ liệu bài viết theo yêu cầu của giảng viên và ghi rõ nguồn dữ liệu được sử dụng.",
+    "author": "Ban biên tập (mẫu)",
+    "category": [
+      "giao-duc"
+    ],
+    "publishedAt": "2026-10-17T07:00:00",
+    "source": "Dữ liệu minh họa",
+    "url": "",
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&q=85"
+  },
+  {
+    "id": "mau-012",
+    "title": "Người trẻ khám phá các phương pháp học lập trình",
+    "slug": "bai-viet-mau-012",
+    "excerpt": "Các dự án thực hành giúp kỹ năng công nghệ trở nên gần gũi.",
+    "content": "Các dự án thực hành giúp kỹ năng công nghệ trở nên gần gũi.\n\nĐây là nội dung minh họa được tự biên soạn nhằm kiểm tra bố cục và chức năng website tin tức trong bài tập lớn. Thông tin trong bài chỉ mang tính ví dụ, không phải tin tức đã được xác minh.\n\nKhi hoàn thiện bài tập, sinh viên có thể cập nhật dữ liệu bài viết theo yêu cầu của giảng viên và ghi rõ nguồn dữ liệu được sử dụng.",
+    "author": "Ban biên tập (mẫu)",
+    "category": [
+      "cong-nghe"
+    ],
+    "publishedAt": "2026-10-17T04:00:00",
+    "source": "Dữ liệu minh họa",
+    "url": "",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&q=85"
+  },
+  {
+    "id": "mau-013",
+    "title": "Thêm cây xanh cho những khu dân cư mới",
+    "slug": "bai-viet-mau-013",
+    "excerpt": "Các hoạt động trồng cây được tổ chức nhằm cải thiện không gian sống.",
+    "content": "Các hoạt động trồng cây được tổ chức nhằm cải thiện không gian sống.\n\nĐây là nội dung minh họa được tự biên soạn nhằm kiểm tra bố cục và chức năng website tin tức trong bài tập lớn. Thông tin trong bài chỉ mang tính ví dụ, không phải tin tức đã được xác minh.\n\nKhi hoàn thiện bài tập, sinh viên có thể cập nhật dữ liệu bài viết theo yêu cầu của giảng viên và ghi rõ nguồn dữ liệu được sử dụng.",
+    "author": "Ban biên tập (mẫu)",
+    "category": [
+      "thoi-su",
+      "moi-truong"
+    ],
+    "publishedAt": "2026-10-17T01:00:00",
+    "source": "Dữ liệu minh họa",
+    "url": "",
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&q=85"
+  },
+  {
+    "id": "mau-014",
+    "title": "Các quốc gia hợp tác bảo tồn di sản văn hóa",
+    "slug": "bai-viet-mau-014",
+    "excerpt": "Hoạt động giao lưu thúc đẩy chia sẻ kinh nghiệm và nguồn lực.",
+    "content": "Hoạt động giao lưu thúc đẩy chia sẻ kinh nghiệm và nguồn lực.\n\nĐây là nội dung minh họa được tự biên soạn nhằm kiểm tra bố cục và chức năng website tin tức trong bài tập lớn. Thông tin trong bài chỉ mang tính ví dụ, không phải tin tức đã được xác minh.\n\nKhi hoàn thiện bài tập, sinh viên có thể cập nhật dữ liệu bài viết theo yêu cầu của giảng viên và ghi rõ nguồn dữ liệu được sử dụng.",
+    "author": "Ban biên tập (mẫu)",
+    "category": [
+      "the-gioi"
+    ],
+    "publishedAt": "2026-10-16T22:00:00",
+    "source": "Dữ liệu minh họa",
+    "url": "",
+    "image": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?w=1200&q=85"
+  },
+  {
+    "id": "mau-015",
+    "title": "Thị trường sản phẩm sáng tạo thu hút người mua trẻ",
+    "slug": "bai-viet-mau-015",
+    "excerpt": "Thiết kế độc đáo và trải nghiệm mua sắm được chú ý.",
+    "content": "Thiết kế độc đáo và trải nghiệm mua sắm được chú ý.\n\nĐây là nội dung minh họa được tự biên soạn nhằm kiểm tra bố cục và chức năng website tin tức trong bài tập lớn. Thông tin trong bài chỉ mang tính ví dụ, không phải tin tức đã được xác minh.\n\nKhi hoàn thiện bài tập, sinh viên có thể cập nhật dữ liệu bài viết theo yêu cầu của giảng viên và ghi rõ nguồn dữ liệu được sử dụng.",
+    "author": "Ban biên tập (mẫu)",
+    "category": [
+      "kinh-doanh"
+    ],
+    "publishedAt": "2026-10-16T19:00:00",
+    "source": "Dữ liệu minh họa",
+    "url": "",
+    "image": "https://images.unsplash.com/photo-1472851294608-062f824d29cc?w=1200&q=85"
+  },
+  {
+    "id": "mau-016",
+    "title": "Các câu lạc bộ thể thao học đường hoạt động sôi nổi",
+    "slug": "bai-viet-mau-016",
+    "excerpt": "Nhiều trường học tổ chức hoạt động ngoại khóa cho học sinh.",
+    "content": "Nhiều trường học tổ chức hoạt động ngoại khóa cho học sinh.\n\nĐây là nội dung minh họa được tự biên soạn nhằm kiểm tra bố cục và chức năng website tin tức trong bài tập lớn. Thông tin trong bài chỉ mang tính ví dụ, không phải tin tức đã được xác minh.\n\nKhi hoàn thiện bài tập, sinh viên có thể cập nhật dữ liệu bài viết theo yêu cầu của giảng viên và ghi rõ nguồn dữ liệu được sử dụng.",
+    "author": "Ban biên tập (mẫu)",
+    "category": [
+      "the-thao"
+    ],
+    "publishedAt": "2026-10-16T16:00:00",
+    "source": "Dữ liệu minh họa",
+    "url": "",
+    "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=1200&q=85"
   }
 ]

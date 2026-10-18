@@ -1,0 +1,1 @@
+{"name":"tin-viet-24-bai-tap-lon","version":"1.0.0","private":true,"scripts":{"start":"node server.js"},"dependencies":{"express":"^4.21.2","cheerio":"^1.0.0"}}
